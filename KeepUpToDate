@@ -1,0 +1,7 @@
+Run 
+docker-compose pull 
+to keep this updated
+
+
+To Remove the lab you can run
+docker-compose rm
